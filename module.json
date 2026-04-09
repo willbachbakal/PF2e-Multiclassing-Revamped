@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "multiclassing-revamped",
+  "title": "Multiclassing Revamped",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A rework to multiclassing in Pathfinder Second Edition that readjusts feat prerequisites and benefits, offering a unified DC as an optional variant.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "multiclassing-revamped",
+      "label": "multiclassing-revamped",
+      "path": "packs/multiclassing-revamped",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/D3XSKcQyTM1W"
 }
