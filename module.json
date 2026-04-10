@@ -14,7 +14,7 @@
         "featTraits": {
           "multiclass": {
             "label": "Multiclass",
-            "description": "Archetypes with the multiclass trait represent diversifying your training into another class’s specialties. You can’t select a multiclass archetype’s dedication feat if you are a member of the class of the same name. When you select a dedication feat with the multiclass trait, make all the choices for that class at 1st level as if you were a member of that class. If a choice binds the class to edicts and anathema, you become bound by those same edicts and anathema. You do not automatically gain the benefits of the choices you make, though they allow you to qualify for feats by meeting their prerequisites. If you choose to use the Unified DCs variant above, you use your class DC for the DCs of any spells or abilities you gain through a multiclass archetype, instead of using a separate class DC. You use the same attribute as the archetype’s class for its abilities or spells.  For the purpose of determining your multiclass archetype feats’ level-based effects, such as damage, your level in that class is half your character level."
+            "description": ""
           }
         },
         "spellTraits": {
