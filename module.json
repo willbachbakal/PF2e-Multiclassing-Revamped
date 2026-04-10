@@ -33,7 +33,7 @@
   "packs": [
     {
       "name": "multiclassing-revamped",
-      "label": "multiclassing-revamped",
+      "label": "Multiclassing Revamped",
       "path": "packs/multiclassing-revamped",
       "type": "Item",
       "system": "pf2e",
